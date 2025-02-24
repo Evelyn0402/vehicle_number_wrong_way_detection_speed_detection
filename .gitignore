@@ -5,3 +5,4 @@
 *.zip
 *.onnx
 Vehicle_Detection_Image_Dataset/
+test_videos/
